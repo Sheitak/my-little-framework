@@ -2,7 +2,7 @@
 
 ## My Little Framework
 
-Followed by Fabien Potencier's tutorial and Lior Chamla's explanations for understanding and creating his own PHP framework based on Symfony.
+Followed by [Fabien Potencier's tutorial](https://symfony.com/doc/current/create_framework/index.html) and Lior Chamla's explanations for understanding and creating his own PHP framework based on Symfony.
 
 ### Installation
 
